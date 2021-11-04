@@ -9,12 +9,17 @@ body {
     margin:10px;
     background:lavenderblush;
 }
+
 .assignment img {
     width:200px;
     padding:10px;
 }
+
 h1 {
     color: darkorchid;
-    text-align:center;
-    
+    text-align:center;  
+}
+
+a{
+    text-decoration: none;
 }
